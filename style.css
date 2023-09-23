@@ -32,7 +32,7 @@ a {
   background-color: #f6c9dd;
   padding: 24px;
   font-weight: bold;
-  margin-bottom: 18px;
+  margin-bottom: 40px;
   border-radius: 16px;
   border-bottom: 5px solid #de7ca8;
 }
@@ -42,4 +42,3 @@ a:hover {
   border-bottom: 5px solid #c76290;
   color: white;
 }
- 
