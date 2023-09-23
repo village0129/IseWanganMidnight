@@ -53,7 +53,7 @@ main {
 footer {
   background-color: #f6c9dd;
   text-align: center;
-  padding: 18px;
-  position: absolute;
+  padding: 18px auto;
+  position: fixed;
   bottom: 0;
 }
